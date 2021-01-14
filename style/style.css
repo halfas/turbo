@@ -1,0 +1,53 @@
+body {
+	text-align: justify;
+	color: white;
+	margin:10px;
+	background-color: #cccfff;
+	background-image: url("space.jpg");
+	}
+
+h1 {
+	text-align:center;
+	font-famaly: "Adine Kirnberg";
+	color: white;
+	}
+h2 {
+	text-align:center;
+	font-famaly: "Adine Kirnberg";
+	color: #ffffff;
+	}
+p {
+	align: justify;
+	font-family: Times New Roman;
+	font-size: 16;
+	}
+
+a:link {
+	color:#45E11E;
+	}
+a:visited {
+	color:#00f0f0;
+	}
+.bg_text{
+ background-color: black;
+ opacity: 0.55;
+ max-height: 100px;
+ -webkit-box-shadow: rgba(255,255,255,.7) 0 0 0 1px;
+ box-shadow: rgba(255,255,255,.7) 0 0 0 1px;
+}
+.bg_text h1
+{
+ text-transform: uppercase;
+ text-align: center;
+ padding: 28px 0;
+ font-family: BebasBold;
+}
+.bg_text_1{
+ background-color: black;
+ opacity: 0.85;
+ padding: 0 15px;
+ min-height: 600px;
+ -webkit-box-shadow: rgba(255,255,255,.7) 0 0 0 1px;
+ box-shadow: rgba(255,255,255,.7) 0 0 0 1px;
+margin-bottom: 10px;
+}
